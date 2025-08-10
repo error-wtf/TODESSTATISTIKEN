@@ -69,7 +69,9 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 | 10   | Linke Morde                                                  | **0**           | ![](pmk_links_morde_2000_2023.png) |
 
 <img width="1024" height="1536" alt="Riesling" src="https://github.com/user-attachments/assets/63b8bdc5-c56a-4dcb-a923-98e228c6f7f9" />
+
 ---
+
 ## Hinweis zur PKS-Zeitreihe (Bruch ab 2017)
 
 **Warum fällt die Kurve 2017 so stark?**
@@ -98,7 +100,37 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 [4]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25028_pks-2024.pdf?__blob=publicationFile&v=8&utm_source=chatgpt.com "Polizeiliche Kriminalstatistik 2024"
 
 ---
-## Polizeiliche Kriminalstatistik (PKS) 2000–2023
+## 📊 PKS-Analyse 2000–2023 – Fälle und Tatverdächtige (gesamt & nichtdeutsch)
+
+Die folgenden Daten stammen aus den offiziellen **Polizeilichen Kriminalstatistik (PKS)**-Tabellen des Bundeskriminalamts (BKA) für den Zeitraum **2000–2023**.  
+Ausgewertet wurden drei Kennzahlen:
+
+1. **Fälle gesamt** – alle in der PKS erfassten Straftaten, inkl. aller Deliktsarten.  
+2. **Tatverdächtige gesamt** – Anzahl aller ermittelten Tatverdächtigen.  
+3. **Tatverdächtige nichtdeutsch** – Tatverdächtige ohne deutsche Staatsangehörigkeit.  
+
+> **Hinweis:** Ab 2017 wurden ausländerrechtliche Verstöße aus der PKS herausgenommen.  
+> In dieser Auswertung werden die Daten **ohne Nachkorrektur** dargestellt, um den offiziellen Verlauf sichtbar zu machen.
+
+### CSV-Daten
+Die aufbereiteten Daten liegen hier als CSV-Datei vor:  
+[`pks_2000_2023_faelle_tv.csv`](pks_2000_2023_faelle_tv.csv)  
+
+**Spaltenbeschreibung:**
+- `Jahr` – Berichtsjahr  
+- `Faelle_gesamt` – Fälle gesamt  
+- `TV_gesamt` – Tatverdächtige gesamt  
+- `TV_nichtdeutsch` – Tatverdächtige nichtdeutsch  
+
+### Visualisierung
+![PKS 2000–2023 – Fälle & Tatverdächtige im Vergleich](pks_faelle_tv_2000_2023.png)
+
+**Interpretation:**
+- Die **blaue Kurve** (*Fälle gesamt*) liegt erwartungsgemäß deutlich über den Tatverdächtigenzahlen.  
+- Die **orangene Kurve** (*Tatverdächtige gesamt*) folgt dem Trend der Fallzahlen, jedoch auf niedrigerem Niveau.  
+- Die **grüne Kurve** (*Tatverdächtige nichtdeutsch*) liegt konstant darunter, zeigt aber ähnliche Verlaufsmuster.  
+- Der sichtbare Einschnitt **2017** ist auf die PKS-Kategorieänderung zurückzuführen, bei der ausländerrechtliche Verstöße entfernt wurden.
+
 
 
 
