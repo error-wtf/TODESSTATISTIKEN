@@ -100,6 +100,7 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 [4]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25028_pks-2024.pdf?__blob=publicationFile&v=8&utm_source=chatgpt.com "Polizeiliche Kriminalstatistik 2024"
 
 ---
+
 ## 📊 PKS-Analyse 2000–2023 – Fälle und Tatverdächtige (gesamt & nichtdeutsch)
 
 Die folgenden Daten stammen aus den offiziellen **Polizeilichen Kriminalstatistik (PKS)**-Tabellen des Bundeskriminalamts (BKA) für den Zeitraum **2000–2023**.  
