@@ -134,6 +134,27 @@ dass dieser Anteil im Vergleich zu den **Gesamtzahlen** der Straftaten nur **mar
 
 Die Schwankungen bei nichtdeutschen Tatverdächtigen bewegen sich auf einem deutlich niedrigeren Niveau und erklären nur einen kleinen Bruchteil der Gesamtkriminalität.
 
+---
+
+Wenn man diese Zahlen objektiv nebeneinanderlegt, gibt es rein faktenbasiert keinen Grund für die Art der medialen Panikmache, die wir in Deutschland seit Jahren erleben.
+Trotzdem wird der Diskurs in vielen großen Medien so geführt, als ob „Ausländerkriminalität“ und „linksextreme Gewalt“ die größten Gefahren seien – und rechte Gewalt eher ein Randthema.
+
+Das Muster ist klar:
+
+Rechte und rechtspopulistische Akteure liefern Narrative („Überfremdung“, „linke Gewaltwelle“).
+
+Medien mit Reichweite greifen diese Narrative auf, oft ohne Kontext, manchmal aus Klick-Interesse oder politischer Nähe.
+
+Statistiken werden selektiv oder verzerrt dargestellt:
+Ausländerkriminalität wird hochgejazzt, indem man asylrechtliche Verstöße mitzählt,
+rechte Gewalt wird kleingerechnet oder auf Einzelfälle reduziert.
+
+Folge: Ein verzerrtes Bedrohungsbild, das politisch genutzt wird, um Gesetze zu verschärfen, Überwachung auszubauen oder ganze Gruppen zu stigmatisieren.
+
+Fazit:
+Wenn wir nur die echten, vollständigen BKA-Daten betrachten, gibt es keinen sachlichen Grund für die Art von Hetze, die gegen Ausländer, Linke oder psychisch Kranke betrieben wird.
+Das ist kein rational begründetes Sicherheitsargument, sondern ein politisches Instrument – ein Werkzeug zur Angstproduktion.
+
 
 
 
