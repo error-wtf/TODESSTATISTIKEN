@@ -51,7 +51,7 @@ Vollständige Quellenliste: [`Sources.md`](Sources.md)
 
 ---
 
-## Todeszahlen in Deutschland 2000–2023 (eigene Auswertung)
+## Todeszahlen in Deutschland 2000–2023
 
 Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesamt, BKA, AAS) und enthalten ausschließlich dokumentierte Todesfälle im Zeitraum **2000 bis 2023**.
 **Hinweis:** Bei *psychischen und Verhaltensstörungen* handelt es sich um die **Summe aller Todesfälle mit entsprechender Diagnose** – nicht ausschließlich um Gewalttaten.
