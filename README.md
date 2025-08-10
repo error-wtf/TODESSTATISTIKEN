@@ -95,4 +95,6 @@
 
 
 ## Quellen
-Wenn du die Quellen-Datei ebenfalls ins Root legst, verlinke: `Sources.md`.
+
+Vollständige Quellenliste: [`Sources.md`](Sources.md)
+
