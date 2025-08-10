@@ -88,4 +88,13 @@ Für AAS/Belltower (Todesopfer rechter Gewalt) wird in v2 zusätzlich eine jahrw
     URL: [https://www.dkfz.de/de/tabakkontrolle/Tabakatlas-2020.html](https://www.dkfz.de/de/tabakkontrolle/Tabakatlas-2020.html)
   * RKI – Tabakbedingte Todesfälle (regelmäßig ≈ 127.000/Jahr)
 
+### Polizeiliche Kriminalstatistik – Straftaten insgesamt (2000–2023)
+
+* **Quelle:** Bundeskriminalamt (BKA) – Polizeiliche Kriminalstatistik (PKS)
+* Tabelle: **T01 – Straftaten insgesamt (Grundtabelle ab 1987)** – CSV/XLSX „ZR-F-01-T01-Faelle“
+* Download: [https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/zeitreihen/\_node.html](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/zeitreihen/_node.html)
+* Inhalt: Jahresweise Gesamtzahl aller registrierten Straftaten in Deutschland (inkl. aller Deliktsbereiche; ohne Bereinigung um ausländerrechtliche Verstöße).
+* Auswertung: Werte 2000–2023, bereinigt (Tausendertrennzeichen entfernt), für Zeitreihengraphik.
+
+
 
