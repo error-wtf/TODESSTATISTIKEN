@@ -35,9 +35,6 @@ Für AAS/Belltower (Todesopfer rechter Gewalt) wird in v2 zusätzlich eine jahrw
 - Belltower.News Liste/Chronik (Start 1990): https://www.belltower.news/die-liste-193-todesopfer-rechtsextremer-und-rassistischer-gewalt-seit-1990-36796/
 - Chronik/Portal: https://www.belltower.news/chronik/
 
-*Erstellt am 2025-08-09*
-## Ergänzungen (Stand 2025-08-09)
-
 ### Methodische Hinweise (Vergleich AAS ↔ BKA)
 - **AAS** zählt **Opfer (Personen)** rechter Gewalt. Grundlage sind Einzelfall‑Recherchen (Medien, Beratungsstellen, Initiativen).
 - **BKA** (PMK „rechts“) zählt **Delikte/Fälle** (z. B. „vollendete Tötungsdelikte“) nach polizeilicher Phänomenzuordnung.
@@ -65,11 +62,30 @@ Für AAS/Belltower (Todesopfer rechter Gewalt) wird in v2 zusätzlich eine jahrw
 - **BMJ Evaluierung (2024)** der gesetzlichen Regelungen zu ärztlichen Zwangsmaßnahmen.  
   https://www.bmjv.de/SharedDocs/Publikationen/DE/Fachpublikationen/2024_Forschungsbericht_Zwangsmassnahmen_BR.pdf
 
-### Alkohol – ICD‑spezifische Todesursachen (2000–2023)
-- **GBE‑Todesursachen (ICD‑10)** – Codes **F10**, **K70**, **X45**, **Y15** (Deutschland, Jahre 2000–2023).  
-  Interaktive Tabelle „Sterbefälle nach Todesursachen (ICD‑10), ab 1998“ – mit CSV‑Export.
+
+### Psychische Krankheiten (F00–F99) – Todesursachen (2000–2023)
+
+* **Quelle:** Statistisches Bundesamt – GENESIS-Datenbank
+* Tabelle: „Sterbefälle: Deutschland, Jahre, Todesursachen (ICD-10)“ – Auswahl ICD-Kapitel F00–F99
+* URL: [https://www-genesis.destatis.de/](https://www-genesis.destatis.de/)
+* Export: CSV (Jahre 2000–2023)
+
+### Alkohol – ICD-spezifische Todesursachen (2000–2023)
+
+* **Quelle:** Statistisches Bundesamt – GENESIS-Datenbank
+* Tabelle: „Sterbefälle: Deutschland, Jahre, Todesursachen (ICD-10)“ – Auswahl Codes F10, K70, X45, Y15
+* URL: [https://www-genesis.destatis.de/](https://www-genesis.destatis.de/)
+* Export: CSV (Jahre 2000–2023)
 
 ### Tabak – methodischer Hinweis
-- In der ICD‑Statistik existiert **kein** eigener Code für „Tabaktod“; belastbare Reihen sind **attributabel** (Population Attributable Fractions, PAF).  
-- Primärquellen: **DKFZ – Tabakatlas 2020** (z. B. 2018 ≈ 127.000), **RKI** (regelmäßig „≈127.000“).  
-  DKFZ: https://www.dkfz.de/de/tabakkontrolle/Tabakatlas-2020.html
+
+* In der ICD-Statistik existiert **kein** eigener Code für „Tabaktod“. Amtliche Reihen stammen aus attributablen Schätzungen (Population Attributable Fractions, PAF).
+* **Primärquellen:**
+
+  * Statistisches Bundesamt – GENESIS-Datenbank (ICD-basierte Gesamt-Sterbefälle; Grundlage für Berechnungen)
+    URL: [https://www-genesis.destatis.de/](https://www-genesis.destatis.de/)
+  * DKFZ – Tabakatlas 2020 (z. B. 2018 ≈ 127.000)
+    URL: [https://www.dkfz.de/de/tabakkontrolle/Tabakatlas-2020.html](https://www.dkfz.de/de/tabakkontrolle/Tabakatlas-2020.html)
+  * RKI – Tabakbedingte Todesfälle (regelmäßig ≈ 127.000/Jahr)
+
+
