@@ -123,6 +123,12 @@ Verglichen werden:
 - Die **grüne Kurve** (*Tatverdächtige nichtdeutsch*) liegt konstant darunter, zeigt aber ähnliche Verlaufsmuster.  
 - Der sichtbare Einschnitt **2017** ist auf die PKS-Kategorieänderung zurückzuführen, bei der ausländerrechtliche Verstöße entfernt wurden.
 
+---
+
+**Interpretation:**  
+Trotz teils öffentlicher Debatten über „Ausländerkriminalität“ zeigt der Verlauf der **nichtdeutschen Tatverdächtigen** (inklusive aller Delikte wie z. B. Verstöße gegen das Asyl- und Aufenthaltsrecht), dass dieser Anteil im Vergleich zu den **Gesamtzahlen** der Straftaten nur **marginal ins Gewicht fällt**.  
+Die Schwankungen bei nichtdeutschen Tatverdächtigen bewegen sich auf einem deutlich niedrigeren Niveau und erklären nur einen kleinen Bruchteil der Gesamtkriminalität.
+
 
 
 
