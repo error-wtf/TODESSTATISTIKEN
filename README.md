@@ -69,5 +69,19 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 | 10   | Linke Morde                                                  | **0**           | ![](pmk_links_morde_2000_2023.png) |
 
 <img width="1024" height="1536" alt="Riesling" src="https://github.com/user-attachments/assets/63b8bdc5-c56a-4dcb-a923-98e228c6f7f9" />
+---
+## Gesamt-Kriminalitätsstatistik Deutschland (2000–2023, BKA)
+
+![Gesamt-Kriminalitätsstatistik](Gesamt_Kriminalitaetsstatistik_2000-2023.png)
+
+Die obige Grafik zeigt die Entwicklung der erfassten Straftaten in Deutschland laut
+**Polizeilicher Kriminalstatistik (PKS)** des Bundeskriminalamtes (BKA) für die Jahre 2000–2023.
+
+- Quelle: Bundeskriminalamt (BKA), PKS Zeitreihen
+- Datei im Repository: [`ZR-F-01-T01-Faelle_2000-2023.csv`](ZR-F-01-T01-Faelle_2000-2023.csv)
+
+### Anmerkungen:
+- Der deutliche Rückgang ab 2017 steht im Zusammenhang mit einer Umstellung der PKS-Kategorien.
+- Der Einbruch 2020–2021 ist vor allem auf pandemiebedingte Einschränkungen (Lockdowns) zurückzuführen.
 
 
