@@ -100,16 +100,5 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 ---
 ## Polizeiliche Kriminalstatistik (PKS) 2000–2023
 
-### Fälle gesamt (2000–2023)
-![Fälle gesamt](pks_faelle_gesamt_2000_2023.png)  
-[📄 CSV herunterladen](pks_faelle_gesamt_2000_2023.csv)
-
-### Tatverdächtige insgesamt (2000–2023)
-![Tatverdächtige gesamt](pks_tv_insgesamt_2000_2023.png)  
-[📄 CSV herunterladen](pks_tv_insgesamt_2000_2023.csv)
-
-### Anteil nichtdeutsche Tatverdächtige (in %)
-![Anteil nichtdeutsche Tatverdächtige](pks_tv_anteil_nichtdeutsch_2000_2023.png)  
-[📄 CSV herunterladen](pks_tv_anteil_nichtdeutsch_2000_2023.csv)
 
 
