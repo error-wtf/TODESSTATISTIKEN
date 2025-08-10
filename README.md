@@ -113,4 +113,15 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 [3]: https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2017/Zeitreihen/hinweiseZuDenDaten_pdf.pdf?__blob=publicationFile&v=2 "V 1.0 Hinweise Zeitreihen 2017.docx"
 [4]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25028_pks-2024.pdf?__blob=publicationFile&v=8&utm_source=chatgpt.com "Polizeiliche Kriminalstatistik 2024"
 
+## Gesamt-Kriminalitätsstatistik Deutschland (2000–2023)
+
+![Gesamt-Kriminalitätsstatistik Deutschland 2000–2023](gesamte_kriminalitaet_2000_2023.png)  
+[📄 CSV herunterladen](pks_gesamt_kriminalitaet_2000_2023.csv)
+
+---
+
+## PKS – Straftaten insgesamt & Verstöße gegen Ausländerrecht (2000–2023)
+
+![Straftaten gesamt & Ausländerrecht](pks_straftaten_gesamt_auslaenderrecht.png)  
+[📄 CSV herunterladen](pks_straftaten_gesamt_auslaenderrecht.csv)
 
