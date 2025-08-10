@@ -1,108 +1,102 @@
-# Zeitreihen: Todesursachen, politische Gewalt & Kriminalität (Deutschland, 2000–2023)
+# Todesursachen, politische Gewalt & Kriminalität (Deutschland, 2000–2023)
 
-Dieses Repository enthält Zeitreihendiagramme (PNG) und zugehörige CSV-Dateien für Todesursachen, politisch motivierte Gewalt, Amoktaten und allgemeine Kriminalitätsstatistiken.
+Diese Übersicht bindet **alle Diagramme (PNG)** aus dem Ordner `TODESSTATISTIKEN/` direkt ein und verlinkt – sofern vorhanden – die zugehörigen CSV-Dateien. Die Bilder werden auf GitHub inline dargestellt (relative Pfade).
 
-## Diagramme
+## Übersicht der Diagramme
 
 ### Todesopfer rechter Gewalt (AAS, 2000–2023)
 
-![](TODESSTATISTIKEN/AAS_Deaths_2000_2023.png)
+![Todesopfer rechter Gewalt (AAS, 2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/AAS_Deaths_2000_2023.png)
 
-**CSV:** [AAS_Deaths_2000_2023.csv](TODESSTATISTIKEN/AAS_Deaths_2000_2023.csv)
+**CSV:** [AAS_Deaths_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/AAS_Deaths_2000_2023.csv)
 
 ### Vergleich: AAS vs. BKA (Todesopfer rechter Gewalt, 2000–2023)
 
-![](TODESSTATISTIKEN/AAS_vs_BKA_Deaths_2000_2023.png)
+![Vergleich: AAS vs. BKA (Todesopfer rechter Gewalt, 2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/AAS_vs_BKA_Deaths_2000_2023.png)
 
-**CSV:** [AAS_vs_BKA_Deaths_2000_2023.csv](TODESSTATISTIKEN/AAS_vs_BKA_Deaths_2000_2023.csv)
+**CSV:** [AAS_vs_BKA_Deaths_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/AAS_vs_BKA_Deaths_2000_2023.csv)
 
 ### Todesfälle durch Alkohol (F10, K70, X45, Y15)
 
-![](TODESSTATISTIKEN/alkohol.png)
+![Todesfälle durch Alkohol (F10, K70, X45, Y15)](TODESSTATISTIKEN/TODESSTATISTIKEN/alkohol.png)
 
-**CSV:** [alkohol.csv](TODESSTATISTIKEN/alkohol.csv)
+**CSV:** [alkohol.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/alkohol.csv)
 
 ### Amoktaten an Schulen – Todesopfer (2000–2023)
 
-![](TODESSTATISTIKEN/amok_schulen_tote_2000_2023.png)
+![Amoktaten an Schulen – Todesopfer (2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/amok_schulen_tote_2000_2023.png)
 
-**CSV:** [amok_schulen_tote_2000_2023.csv](TODESSTATISTIKEN/amok_schulen_tote_2000_2023.csv)
+**CSV:** [amok_schulen_tote_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/amok_schulen_tote_2000_2023.csv)
 
 ### BKA PMK Rechts – Vollendete Tötungsdelikte (2000–2023)
 
-![](TODESSTATISTIKEN/bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.png)
+![BKA PMK Rechts – Vollendete Tötungsdelikte (2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.png)
 
-**CSV:** [bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.csv](TODESSTATISTIKEN/bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.csv)
+**CSV:** [bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/bka_pmk_rechts_toetungsdelikte_vollendet_2000_2023.csv)
 
 ### Todesopfer islamistischer Anschläge (2000–2023)
 
-![](TODESSTATISTIKEN/islamistische_anschlaege_tote_2000_2023.png)
+![Todesopfer islamistischer Anschläge (2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/islamistische_anschlaege_tote_2000_2023.png)
 
-**CSV:** [islamistische_anschlaege_tote_2000_2023.csv](TODESSTATISTIKEN/islamistische_anschlaege_tote_2000_2023.csv)
+**CSV:** [islamistische_anschlaege_tote_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/islamistische_anschlaege_tote_2000_2023.csv)
 
 ### Straftaten insgesamt in Deutschland (2000–2023) – PKS
 
-![](TODESSTATISTIKEN/pks_straftaten_2000_2023.png)
+![Straftaten insgesamt in Deutschland (2000–2023) – PKS](TODESSTATISTIKEN/TODESSTATISTIKEN/pks_straftaten_2000_2023.png)
 
-**CSV:** [pks_straftaten_2000_2023.csv](TODESSTATISTIKEN/pks_straftaten_2000_2023.csv)
+**CSV:** [pks_straftaten_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/pks_straftaten_2000_2023.csv)
 
 ### PMK Gewalttaten (links/rechts, 2012–2023)
 
-![](TODESSTATISTIKEN/pmk_gewalttaten_links_rechts_2012_2023.png)
+![PMK Gewalttaten (links/rechts, 2012–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/pmk_gewalttaten_links_rechts_2012_2023.png)
 
-**CSV:** [pmk_gewalttaten_links_rechts_2012_2023.csv](TODESSTATISTIKEN/pmk_gewalttaten_links_rechts_2012_2023.csv)
+**CSV:** [pmk_gewalttaten_links_rechts_2012_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/pmk_gewalttaten_links_rechts_2012_2023.csv)
 
 ### PMK Links – Morde (2000–2023)
 
-![](TODESSTATISTIKEN/pmk_links_morde_2000_2023.png)
+![PMK Links – Morde (2000–2023)](TODESSTATISTIKEN/TODESSTATISTIKEN/pmk_links_morde_2000_2023.png)
 
-**CSV:** [pmk_links_morde_2000_2023.csv](TODESSTATISTIKEN/pmk_links_morde_2000_2023.csv)
+**CSV:** [pmk_links_morde_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/pmk_links_morde_2000_2023.csv)
 
-### Psychische Krankheiten
+### Todesfälle durch psychische Krankheiten (F00–F99)
 
-![](TODESSTATISTIKEN/psychische_krankheiten.png)
+![Todesfälle durch psychische Krankheiten (F00–F99)](TODESSTATISTIKEN/TODESSTATISTIKEN/psychische_krankheiten.png)
 
 ### Todesfälle durch Tabak
 
-![](TODESSTATISTIKEN/tabak.png)
+![Todesfälle durch Tabak](TODESSTATISTIKEN/TODESSTATISTIKEN/tabak.png)
 
-**CSV:** [tabak.csv](TODESSTATISTIKEN/tabak.csv)
+**CSV:** [tabak.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/tabak.csv)
 
 ### Toedliche Arbeitsunfaelle 2000 2023
 
-![](TODESSTATISTIKEN/toedliche_arbeitsunfaelle_2000_2023.png)
+![Toedliche Arbeitsunfaelle 2000 2023](TODESSTATISTIKEN/TODESSTATISTIKEN/toedliche_arbeitsunfaelle_2000_2023.png)
 
-**CSV:** [toedliche_arbeitsunfaelle_2000_2023.csv](TODESSTATISTIKEN/toedliche_arbeitsunfaelle_2000_2023.csv)
+**CSV:** [toedliche_arbeitsunfaelle_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/toedliche_arbeitsunfaelle_2000_2023.csv)
 
 ### Variant A T92 Familieplus 2000 2023
 
-![](TODESSTATISTIKEN/variant_A_T92_familieplus_2000_2023.png)
+![Variant A T92 Familieplus 2000 2023](TODESSTATISTIKEN/TODESSTATISTIKEN/variant_A_T92_familieplus_2000_2023.png)
 
-**CSV:** [variant_A_T92_familieplus_2000_2023.csv](TODESSTATISTIKEN/variant_A_T92_familieplus_2000_2023.csv)
+**CSV:** [variant_A_T92_familieplus_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/variant_A_T92_familieplus_2000_2023.csv)
 
 ### Variant B T91 Unter18 2000 2023
 
-![](TODESSTATISTIKEN/variant_B_T91_unter18_2000_2023.png)
+![Variant B T91 Unter18 2000 2023](TODESSTATISTIKEN/TODESSTATISTIKEN/variant_B_T91_unter18_2000_2023.png)
 
-**CSV:** [variant_B_T91_unter18_2000_2023.csv](TODESSTATISTIKEN/variant_B_T91_unter18_2000_2023.csv)
+**CSV:** [variant_B_T91_unter18_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/variant_B_T91_unter18_2000_2023.csv)
 
 ### Verkehrstote 2000 2023
 
-![](TODESSTATISTIKEN/verkehrstote_2000_2023.png)
+![Verkehrstote 2000 2023](TODESSTATISTIKEN/TODESSTATISTIKEN/verkehrstote_2000_2023.png)
 
-**CSV:** [verkehrstote_2000_2023.csv](TODESSTATISTIKEN/verkehrstote_2000_2023.csv)
+**CSV:** [verkehrstote_2000_2023.csv](TODESSTATISTIKEN/TODESSTATISTIKEN/verkehrstote_2000_2023.csv)
 
 
 ## Quellen
 
-Siehe **[TODESSTATISTIKEN/Sources.md](TODESSTATISTIKEN/Sources.md)** für detaillierte Angaben.
+Vollständige Quellenliste: [`TODESSTATISTIKEN/Sources.md`](TODESSTATISTIKEN/Sources.md)
 
-## Reproduzierbarkeit
-
-- Alle Diagramme wurden aus den im Repository enthaltenen CSV-Dateien erzeugt.
-- Zahlenbasis: Statistisches Bundesamt (GENESIS) für Todesursachen; BKA/PKS Zeitreihen und weitere amtliche Stellen für Kriminalitäts- und Gewaltstatistiken.
-- Format: UTF-8 CSVs mit Spalten `Jahr` und `Wert` bzw. `Jahr,erfasste Faelle` (PKS).
-
-## Lizenz
-
-Die zugrundeliegenden Daten stammen aus amtlichen, urheberrechtsfreien Quellen. Die Aufbereitung (Plots/CSV) in diesem Repo ist frei nutzbar unter CC0.
+## Hinweise
+- Die PNGs sind aus den CSVs reproduzierbar erzeugt.
+- Zahlenbasis: Destatis (GENESIS) für Todesursachen; BKA/PKS für Kriminalitätsstatistiken sowie dokumentierte Primärquellen für Ereignislisten (AAS, GBA etc.).
