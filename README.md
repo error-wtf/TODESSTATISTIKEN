@@ -68,5 +68,6 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 | 9    | Islamistische Anschläge (Tote)                               | **16**          | ![](islamistische_anschlaege_tote_2000_2023.png) |
 | 10   | Linke Morde                                                  | **0**           | ![](pmk_links_morde_2000_2023.png) |
 
+<img width="1024" height="1536" alt="Riesling" src="https://github.com/user-attachments/assets/63b8bdc5-c56a-4dcb-a923-98e228c6f7f9" />
 
 
