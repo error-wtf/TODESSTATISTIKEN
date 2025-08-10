@@ -72,7 +72,7 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 ---
 ## Gesamt-Kriminalitätsstatistik Deutschland (2000–2023, BKA)
 
-![Gesamt-Kriminalitätsstatistik](Gesamt_Kriminalitaetsstatistik_2000-2023.png)
+![Gesamt-Kriminalitätsstatistik](gesamte_kriminalitaet_2000_2023.png)
 
 Die obige Grafik zeigt die Entwicklung der erfassten Straftaten in Deutschland laut
 **Polizeilicher Kriminalstatistik (PKS)** des Bundeskriminalamtes (BKA) für die Jahre 2000–2023.
