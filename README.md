@@ -101,30 +101,21 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 
 ---
 
-## 📊 PKS-Analyse 2000–2023 – Fälle und Tatverdächtige (gesamt & nichtdeutsch)
+## 📊 PKS-Analyse 2000–2023 – Fälle und Tatverdächtige (gleicher Maßstab)
 
 Die folgenden Daten stammen aus den offiziellen **Polizeilichen Kriminalstatistik (PKS)**-Tabellen des Bundeskriminalamts (BKA) für den Zeitraum **2000–2023**.  
-Ausgewertet wurden drei Kennzahlen:
+Verglichen werden:
 
-1. **Fälle gesamt** – alle in der PKS erfassten Straftaten, inkl. aller Deliktsarten.  
-2. **Tatverdächtige gesamt** – Anzahl aller ermittelten Tatverdächtigen.  
-3. **Tatverdächtige nichtdeutsch** – Tatverdächtige ohne deutsche Staatsangehörigkeit.  
-
-> **Hinweis:** Ab 2017 wurden ausländerrechtliche Verstöße aus der PKS herausgenommen.  
-> In dieser Auswertung werden die Daten **ohne Nachkorrektur** dargestellt, um den offiziellen Verlauf sichtbar zu machen.
+1. **Fälle gesamt**
+2. **Tatverdächtige gesamt**
+3. **Tatverdächtige nichtdeutsch**
 
 ### CSV-Daten
-Die aufbereiteten Daten liegen hier als CSV-Datei vor:  
-[`pks_2000_2023_faelle_tv.csv`](pks_2000_2023_faelle_tv.csv)  
+[`pks_2000_2023_faelle_tv.csv`](pks_2000_2023_faelle_tv.csv)
 
-**Spaltenbeschreibung:**
-- `Jahr` – Berichtsjahr  
-- `Faelle_gesamt` – Fälle gesamt  
-- `TV_gesamt` – Tatverdächtige gesamt  
-- `TV_nichtdeutsch` – Tatverdächtige nichtdeutsch  
+### Visualisierung (gleicher Maßstab)
+![PKS 2000–2023 – Fälle & Tatverdächtige im Vergleich](pks_faelle_tv_gesamt_gleicher_massstab.png)
 
-### Visualisierung
-![PKS 2000–2023 – Fälle & Tatverdächtige im Vergleich](pks_faelle_tv_2000_2023.png)
 
 **Interpretation:**
 - Die **blaue Kurve** (*Fälle gesamt*) liegt erwartungsgemäß deutlich über den Tatverdächtigenzahlen.  
