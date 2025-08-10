@@ -127,7 +127,9 @@ Verglichen werden:
 
 **Interpretation:**  
 Trotz teils öffentlicher Debatten über „Ausländerkriminalität“ zeigt der Verlauf der **nichtdeutschen Tatverdächtigen** 
+
 (inklusive aller Delikte wie z. B. Verstöße gegen das Asyl- und Aufenthaltsrecht), 
+
 dass dieser Anteil im Vergleich zu den **Gesamtzahlen** der Straftaten nur **marginal ins Gewicht fällt**.  
 
 Die Schwankungen bei nichtdeutschen Tatverdächtigen bewegen sich auf einem deutlich niedrigeren Niveau und erklären nur einen kleinen Bruchteil der Gesamtkriminalität.
