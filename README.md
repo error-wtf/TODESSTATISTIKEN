@@ -98,3 +98,27 @@
 
 Vollständige Quellenliste: [`Sources.md`](Sources.md)
 
+
+
+---
+
+## Todeszahlen in Deutschland 2000–2023 (eigene Auswertung)
+
+Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesamt, BKA, AAS) und enthalten ausschließlich dokumentierte Todesfälle im Zeitraum **2000 bis 2023**.
+**Hinweis:** Bei *psychischen und Verhaltensstörungen* handelt es sich um die **Summe aller Todesfälle mit entsprechender Diagnose** – nicht ausschließlich um Gewalttaten.
+
+| Rang | Thema                                                        | Summe 2000–2023 |
+| ---- | ------------------------------------------------------------ | --------------- |
+| 1    | Todesfälle mit Diagnose „psychische und Verhaltensstörungen“ | **935.608**     |
+| 2    | Todesfälle durch Alkohol                                     | **480.615**     |
+| 3    | Verkehrstote                                                 | **102.854**     |
+| 4    | Tödliche Arbeitsunfälle                                      | **12.411**      |
+| 5    | Tötungsdelikte in der Familie                                | **9.553**       |
+| 6    | Tötungsdelikte an Minderjährigen                             | **2.245**       |
+| 7    | Rechte Morde                                                 | **119**         |
+| 8    | Tote durch Amokläufe an Schulen                              | **35**          |
+| 9    | Islamistische Anschläge (Tote)                               | **16**          |
+| 10   | Linke Morde                                                  | **0**           |
+
+
+
