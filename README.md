@@ -70,22 +70,6 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 
 <img width="1024" height="1536" alt="Riesling" src="https://github.com/user-attachments/assets/63b8bdc5-c56a-4dcb-a923-98e228c6f7f9" />
 ---
-## Gesamt-Kriminalitätsstatistik Deutschland (2000–2023, BKA)
-
-![Gesamt-Kriminalitätsstatistik](gesamte_kriminalitaet_2000_2023.png)
-
-Die obige Grafik zeigt die Entwicklung der erfassten Straftaten in Deutschland laut
-**Polizeilicher Kriminalstatistik (PKS)** des Bundeskriminalamtes (BKA) für die Jahre 2000–2023.
-
-- Quelle: Bundeskriminalamt (BKA), PKS Zeitreihen
-- Datei im Repository: [`ZR-F-01-T01-Faelle_2000-2023.csv`](ZR-F-01-T01-Faelle_2000-2023.csv)
-
-### Anmerkungen:
-- Der deutliche Rückgang ab 2017 steht im Zusammenhang mit einer Umstellung der PKS-Kategorien.
-- Der Einbruch 2020–2021 ist vor allem auf pandemiebedingte Einschränkungen (Lockdowns) zurückzuführen.
-
----
-
 ## Hinweis zur PKS-Zeitreihe (Bruch ab 2017)
 
 **Warum fällt die Kurve 2017 so stark?**
@@ -113,15 +97,4 @@ Ab 2017 stellt das BKA die zentrale Kennzahl zusätzlich (und in vielen Veröffe
 [3]: https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2017/Zeitreihen/hinweiseZuDenDaten_pdf.pdf?__blob=publicationFile&v=2 "V 1.0 Hinweise Zeitreihen 2017.docx"
 [4]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25028_pks-2024.pdf?__blob=publicationFile&v=8&utm_source=chatgpt.com "Polizeiliche Kriminalstatistik 2024"
 
-## Gesamt-Kriminalitätsstatistik Deutschland (2000–2023)
-
-![Gesamt-Kriminalitätsstatistik Deutschland 2000–2023](gesamte_kriminalitaet_2000_2023.png)  
-[📄 CSV herunterladen](pks_gesamt_kriminalitaet_2000_2023.csv)
-
----
-
-## PKS – Straftaten insgesamt & Verstöße gegen Ausländerrecht (2000–2023)
-
-![Straftaten gesamt & Ausländerrecht](pks_straftaten_gesamt_auslaenderrecht.png)  
-[📄 CSV herunterladen](pks_straftaten_gesamt_auslaenderrecht.csv)
 
