@@ -155,8 +155,7 @@ Fazit:
 Wenn wir nur die echten, vollständigen BKA-Daten betrachten, gibt es keinen sachlichen Grund für die Art von Hetze, die gegen Ausländer, Linke oder psychisch Kranke betrieben wird.
 Das ist kein rational begründetes Sicherheitsargument, sondern ein politisches Instrument – ein Werkzeug zur Angstproduktion.
 
-<iframe scrolling="no" style="border-radius: 10px;" id="hearthis_at_track_12573905" width="100%" height="150" src="https://app.hearthis.at/embed/12573905/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/lino.casu/erst-die-daten-dann-die-debatte/" target="_blank">erst-die-daten-dann-die-debatte</a> <span>by</span><a href="https://hearthis.at/lino.casu/" target="_blank" >Lino Casu</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
-
+https://hearthis.at/lino.casu/erst-die-daten-dann-die-debatte/
 
 
 
