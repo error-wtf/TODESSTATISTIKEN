@@ -71,6 +71,12 @@ Die folgenden Zahlen basieren auf offiziellen Statistiken (Statistisches Bundesa
 <img width="1024" height="1536" alt="Riesling" src="https://github.com/user-attachments/assets/63b8bdc5-c56a-4dcb-a923-98e228c6f7f9" />
 
 ---
+### AAS-Hinweis (kurz)
+
+Die Zahlen der Amadeu Antonio Stiftung (AAS) sind sorgfältig recherchiert und nutzen bewusst **breitere Kriterien** als die amtliche BKA-PMK-Zählung (**BKA = Untergrenze**, **AAS = Obergrenze** derselben Realität).  
+**Transparenz:** Wir führen die AAS-Daten **trotz** der Definitionsunterschiede im Repo, haben sie **zusätzlich als CSV** hochgeladen, Verdachtsfälle **klar markiert** und Quellen **verlinkt**.
+
+---
 
 ## Hinweis zur PKS-Zeitreihe (Bruch ab 2017)
 
