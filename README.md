@@ -1,6 +1,7 @@
 # Todesursachen, politische Gewalt & Kriminalität (Deutschland, 2000–2023)
 ---
-![todesopfer](https://github.com/user-attachments/assets/fabbe01f-69d7-44a8-8e99-c78da7794c9e)
+![todesopfer](https://github.com/user-attachments/assets/f93743d8-4050-4316-87c1-f56810a26929)
+
 
 ---
 
